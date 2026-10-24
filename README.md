@@ -1,0 +1,2 @@
+# Lifestyle-Sleep-and-Screen-Time-Risk-Factors-for-Dry-Eye-Disease-Data-Science-Project
+Dry eye disease (DED) is a common condition of the eye surface in which tears are too few or evaporate too quickly, causing dryness, redness, itching and discomfort. More hours on screens and poor sleep are widely suspected to make it worse. This project uses a 20,000-person dataset to ask which lifestyle and health factors are linked to DED
