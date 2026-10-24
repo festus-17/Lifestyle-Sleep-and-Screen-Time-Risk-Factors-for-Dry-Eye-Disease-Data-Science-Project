@@ -1,0 +1,3 @@
+scenario,model,AUC,AUC 95% range,PR-AUC,accuracy,baseline accuracy,sensitivity,specificity,precision,F1,threshold
+A: Lifestyle only,Gradient boosting,0.514,0.496 to 0.531,0.667,0.419,0.652,0.228,0.777,0.656,0.338,0.656
+B: Lifestyle + eye symptoms,Logistic regression,0.606,0.587 to 0.624,0.706,0.69,0.652,0.909,0.279,0.702,0.793,0.575
